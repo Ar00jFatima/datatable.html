@@ -1,0 +1,145 @@
+<html></html>
+<head></head>
+<title>Curriculum Vitae</title>
+<h1><center>CURRICULUM VITAE</center></h1>
+<p>Graduated with demonstrated leadership strengths and proven ability to manage multiple
+responsibilities in a fast-paced environment with critical deadlines. Works well independently as well
+as collaboratively in a team setting. Proven ability to ‘think outside the box’ in identifying problems and
+implementing innovative solutions</p>
+<h2>Personal Information</h2>
+<p>Name: Arooj Fatima</p>
+<p>Father's Name: Hafiz Muhammad Saleem</p>
+<p>Date of Birth: 12-June-1994</p>
+<p>CNIC No: 35201-0497969-6</p>
+<p>Marital Status: Single</p>
+<h2>Contact Information</h2>
+<p>Email: aroojfatima4532@gmail.com</p>			         
+<p>Phone: 0306-4532692</p>	
+<p>Address: House No 881, Street No 66, Bazaz Mohallah Saddar Bazar Lahore Cantt.</p>	
+<h2>Education</h2>
+<table style="width:100%">
+  <tr>
+    <th>Education and Year</th><th>  
+    <th>Marks/CGPA</th> 
+    <th>Institution</th>
+  </tr>
+  <tr>
+    <td>M.Phil. Applied Hydrology (2017-19)</td>
+    <td>-Continue-</td> 
+    <td>College of Earth and Environmental Sciences, University of the Punjab.</td>
+  </tr>
+<tr>
+    <td>M.Ed in Science Education (2017-18)</td>
+    <td>-Continue-</td> 
+    <td>Allama Iqbal Open University, Islamabad.</td>
+  </tr>
+<tr>
+    <td>M.Sc. Applied Hydrology (2015-17)</td>
+    <td>3.45/4.00</td> 
+    <td>College of Earth and Environmental Sciences, University of the Punjab.</td>
+  </tr>
+  <tr>
+    <td>Bachelor of Education (2015-16)</td>
+    <td>616/900</td> 
+    <td>Allama Iqbal Open University, Islamabad.</td>
+  </tr>
+<tr>
+    <td>Bachelor of Science (2013-15)</td>
+    <td>430/800</td> 
+    <td>Govt. Islamia College for Women, Lahore Cantt.</td>
+  </tr>
+<tr>
+    <td>F.Sc. Pre-Medical (2011-13)</td>
+    <td>673/1100</td> 
+    <td>Govt. Islamia College for Women, Lahore Cantt.</td>
+  </tr>
+<tr>
+    <td>Secondary School (2009-11)</td>
+    <td>877/1050</td> 
+    <td>Govt. Islamia Girls High School, Lahore Cantt..</td>
+  </tr>
+</table>
+</li></p>
+<h2>Short Courses</h2>
+<table style="width:100%">
+  <tr>
+    <th>Education and Year</th><th>  
+    <th>Percentage</th> 
+    <th>Institution</th>
+  </tr>
+  <tr>
+    <td>Web & Graphic Designing (2017) </td>
+    <td>70%</td> 
+    <td>Department of Mathematics, University of the Punjab.</td>
+  </tr>
+</table>
+<h2>Professional Experience</h2>
+<p><li> 	Teaching in AL-BARAKAH COMPREHENSIVE EDUCATIONAL SYSTEM (Jan 2016 -Feb 2016)</li></p>
+<p><li>	Internship in different offices of Hydrology & Water Management Organization, WAPDA (February 13, 2017 to March 10, 2017):</li></p>
+<p>i.	Surface Water Hydrology Project (SWHP)</p>
+<p>ii.	Hydrology & Research (H&R)</p>
+<p>iii.	Water Resources Management (WRM)</p>
+<p>iv.	Glacier Monitoring Research Centre (GMRC)</p>
+<h2>Softwares</h2>
+<p><li> 	ArcGIS   </p></li>                                     
+<p><li> 	MicroFEM </p></li>            
+<p><li> 	MODFLOW	 </p></li>                 
+<p><li>  	HEC-HMS	 </p></li>   
+<p><li> 	Microsoft Office  </p></li>                   
+<p><li> 	Corel Draw	  </p></li>                     
+<p><li> 	Inpage	          </p></li>                             
+<p><li> 	Adobe Photoshop   </p></li>         
+<p><li> 	Dreamweaver	  </p></li>                 
+<p><li> 	Flash             </p></li> 
+<h2>Interests</h2>
+<p><li> Watercolor Painting </p></li>                                  
+<p><li>	Drawing </p></li>                       
+<p><li>	Debating </p></li> 	                        
+<p><li>	Creating Reddit Accounts </p></li> 
+<p><li>	Writing Articles </p></li> 
+<p><li>	Sketching </p></li>                       
+<h2>Achievements</h2>
+<p><li> 	Got 2nd Position in Primary Standard Exam-2006 from 19 Schools of FGEI (C/G). </li></p> 
+<p><li> 	Got 3rd Position in Middle Standard Exam-2009 from various Schools of FGEI (C/G). </li></p> 
+<p><li> 	Got 1st Position in Urdu Story Writing Competition on topic “Naami koi baghair mushaqqat nahi hota” in 2007. </li></p> 
+<p><li> 	Got Certificates of Merit in Annual Inter Schools Art and Painting Competitions. </li></p> 
+<p><li> 	Got Certificate of Merit by performing Excellent in “Communication Skills in English II (Advanced)” activity. </li></p> 
+<p><li> 	Got Certificate of Appreciation in taken of participation in the Seminar on “WORLD WATER DAY’’ 22nd March 2016. </li></p> 
+<p><li> 	Got Certificate of Merit on excellent performance in the Poster Making Competition held on the occasion of “Anti-Terrorism and Cultural Day”, organized by CEES Literary and Debating Society. </li></p> 
+<p><li> 	Got 3rd Prize in Poster Making Competition held on the occasion of “WORLD ENVIRONMENT DAY’’ 2016 organized by CEES Literary and Debating Society. </li></p> 
+<p><li> 	Got Certificate of Honour on excellent performance in the Painting Competition organized by College of Earth & Environmental Sciences, University of the Punjab, Lahore,  under the theme of “Apna Mauqam Paida Kar (Iqbal Day)” </li></p> 
+<p><li> 	Got certificate of participation on participation in seminar on “WORLD WATER DAY” held at the College of Earth and Environmental Sciences, University of the Punjab, Lahore, Pakistan, on March 22, 2016. </li></p> 
+<p><li> 	Got certificate of participation on participation in one day seminar on “WORLD WATER DAY” held at the College of Earth and Environmental Sciences, University of the Punjab, Lahore, Pakistan, on March 22, 2017. </li></p> 
+<p><li> 	Got Certificate of Participation by attending one day lecture and training by Trainer TECHNOSPARK Asst. Prof. Mudassar Azam on November, 17, 2016. </li></p> 
+<p><li> 	Got Certificate of Appreciation for participation in Grow Festival & Launch of Climate Public Expenditure Review (CPER) 2016-17. </li></p> 
+
+<div class="container">
+<div style="text-align:left">
+<h2>Contact Us</h2>
+<p>You can contact us. We'll get in touch with you as soon as possible. Leave us a message :</p>
+</div>
+<div class="row">
+<div class="column">
+<div id="map" style="width:100%;height:10px"></div>
+</div>
+<div class="column">
+<form action="/action_page.php">
+<p><label for="fname">First Name</label>
+<input type="text" id="fname" name="firstname" placeholder="Your name.."></p>
+<p><label for="lname">Last Name</label>
+<input type="text" id="lname" name="lastname" placeholder="Your last name..">
+<p><label for="phone number">Phone Number</label>
+<input type="text" id="phone number" name="lastname" placeholder="Your phone number..">
+<p><label for="email address">Email Address</label>
+<input type="text" id="email address" name="lastname" placeholder="Your email address..">
+<p><label for="country">Country</label>
+<select id="country" name="country"></p>
+ 	  <option value="pakistan">Pakistan</option>
+	  <option value="india">India</option>
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+</select></p>
+<p><label for="comments">Comments</label>
+<textarea id="comments" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+<input type="submit" value="Submit"></p>
